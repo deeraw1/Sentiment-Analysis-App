@@ -1,5 +1,4 @@
 joblib
 scikit-learn
 streamlit
-Pillow==9.0.1
 
