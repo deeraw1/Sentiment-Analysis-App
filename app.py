@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
- 
+import joblib
 model = joblib.load("hypertuned_tfidf_logreg_model.joblib")  # Load the pre-trained model
 print(model)
 
